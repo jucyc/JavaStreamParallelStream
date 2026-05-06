@@ -1,3 +1,4 @@
+/* */
 package factory;
 
 import models.Trip;
